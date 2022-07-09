@@ -1,0 +1,2 @@
+# LearningScala
+learning Scala
